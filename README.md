@@ -34,10 +34,8 @@ Here are some ideas to get you started:
 👨‍💻 All of my projects are available at:  
 🔗 [ryann-devv.vercel.app](https://ryann-devv.vercel.app)
 
-📫 Reach me at:
-
-- ✉️ [rinnd.dn@gmail.com](mailto:your.email@example.com)
-- 📸 Instagram: [@fx.ryan](https://instagram.com/fx.ryan)
+📫 Reach me at:  
+✉️ [rinnd.dn@gmail.com](mailto:rinnd.dn@gmail.com)
 
 🛠️ Tech Stack:
 
