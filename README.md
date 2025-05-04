@@ -54,6 +54,14 @@ Here are some ideas to get you started:
 
 > I break things to learn how they work — then I rebuild them better.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan-Fx/Ryan-Fx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan-Fx/Ryan-Fx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryan-Fx/Ryan-Fx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- --- -->
 
 <!-- ✨ _Let's build something awesome together!_ -->
