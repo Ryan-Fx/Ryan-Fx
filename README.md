@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,figma,git,github&theme=light" />
 </p>
 
-<h5 align="center">📊 GitHub Stats</h5>
+<h4 align="center">📊 GitHub Stats</h4>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Fx&show_icons=true&theme=tokyonight" alt="Ryan's GitHub stats" />
