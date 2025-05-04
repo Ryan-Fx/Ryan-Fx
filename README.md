@@ -45,9 +45,12 @@ Here are some ideas to get you started:
 
 📊 GitHub Stats:
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Fx&show_icons=true&theme=tokyonight" alt="Ryan's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Fx&theme=tokyonight" alt="Ryan's GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Fx&layout=compact&theme=tokyonight" alt="Ryan's Top Languages" />
 </p>
 
 💡 Fun Fact:
