@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 🛠️ Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,figma,git,github&theme=light" />
 </p>
 
 📊 GitHub Stats:
