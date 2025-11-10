@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🎥 Framer Motion for smooth animations -->
 
 👨‍💻 All of my projects are available at:  
-🔗 [ryann-devv.vercel.app](https://ryann-devv.vercel.app)
+🔗 [heyryan.vercel.app](https://heyryan.vercel.app)
 
 📫 Reach me at:  
 ✉️ [rinnd.dn@gmail.com](mailto:rinnd.dn@gmail.com)
