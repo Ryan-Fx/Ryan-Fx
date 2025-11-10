@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi 👋, I'm Ryan😁</h1>
-<h3 align="center">Glad to see you!</h3>
+<h3 align="center">Frontend Developer | Next.js • Tailwind • Shadcn UI  
+Building clean and responsive web interfaces. </h3>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Next.js+Lover+💙;Tailwind+Addict+🎨;Shadcn+UI+Enthusiast+⚡;Framer+Motion+Animator+🎬" alt="Typing SVG" />
