@@ -13,50 +13,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWozaGYwOG0xMGcxMnYyYzE5ZGhiaDRwOGptd3AzcjFpOWZmbmZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNV7vS6uOKvte/giphy.gif" alt="Anime coding" width="700" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWozaGYwOG0xMGcxMnYyYzE5ZGhiaDRwOGptd3AzcjFpOWZmbmZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNV7vS6uOKvte/giphy.gif" alt="Anime coding" width="600" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ryan😁</h1>
-<h3 align="center">Frontend Developer | Next.js • Tailwind • Shadcn UI  
-Building clean and responsive web interfaces. </h3>
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Next.js+Lover+💙;Tailwind+Addict+🎨;Shadcn+UI+Enthusiast+⚡;Framer+Motion+Animator+🎬" alt="Typing SVG" />
-</p> -->
+<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h3 align="center">Frontend Developer | Next.js • Tailwind • Shadcn UI • Framer Motion.  
+Building clean, responsive, and user-friendly web interfaces.</h3>
 
 ---
 
-<!-- 🌱 I’m currently learning:
+🌱 **Currently learning:**
+- Improving UI design consistency using Shadcn UI  
+- Advanced animations with Framer Motion  
 
-- ⚡ Next.js & Tailwind CSS magic
-- 🧩 Shadcn UI for beautiful components
-- 🎥 Framer Motion for smooth animations -->
-
-👨‍💻 All of my projects are available at:  
+👨‍💻 **All of my projects:**  
 🔗 [heyryan.vercel.app](https://heyryan.vercel.app)
 
-📫 Reach me at:  
-✉️ [rinnd.dn@gmail.com](mailto:rinnd.dn@gmail.com)
+📫 **Reach me at:**  
+✉️ [rinnd.dn@gmail.com](mailto:rinnd.dn@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/rahmat-p)  
 
-🛠️ Tech Stack:
-
+🛠️ **Tech Stack:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,figma,git,github&theme=light" />
+  <br/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-<h4 align="center">📊 GitHub Stats</h4>
+---
 
+<h4 align="center">📊 GitHub Stats</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Fx&show_icons=true&theme=tokyonight" alt="Ryan's GitHub stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Fx&theme=tokyonight" alt="Ryan's GitHub streak" /> -->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Fx&layout=compact&theme=tokyonight" alt="Ryan's Top Languages" />
 </p>
 
-💡 Fun Fact:
+💡 **Fun Fact:**  
+> I love experimenting and learning by breaking and rebuilding things.
 
-> I break things to learn how they work — then I rebuild them better.
 
 ###
 
