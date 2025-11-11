@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWozaGYwOG0xMGcxMnYyYzE5ZGhiaDRwOGptd3AzcjFpOWZmbmZjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNV7vS6uOKvte/giphy.gif" alt="Anime coding" width="600" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Hi 👋, I'm Ryan (Rahmat Pongsale)</h1>
 <h3 align="center">Frontend Developer | Next.js • Tailwind • Shadcn UI • Framer Motion.  
 Building clean, responsive, and user-friendly web interfaces.</h3>
 
