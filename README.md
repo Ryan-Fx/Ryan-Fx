@@ -24,7 +24,8 @@ Building clean, responsive, and user-friendly web interfaces.</h3>
 
 🌱 **Currently learning:**
 - Improving UI design consistency using Shadcn UI  
-- Advanced animations with Framer Motion  
+- Advanced animations with Framer Motion
+- Testing tools 
 
 👨‍💻 **All of my projects:**  
 🔗 [heyryan.vercel.app](https://heyryan.vercel.app)
